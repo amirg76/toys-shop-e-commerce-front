@@ -4,7 +4,7 @@ import {
 } from "../../styles/UserAccount/UserAccount.styled";
 import CloseIcon from "@mui/icons-material/Close";
 import CreateIcon from "@mui/icons-material/Create";
-import { Cursor } from "mongoose";
+
 const UserAccountPersonalInfoPassPopUpMainHead = ({ toggleModal }) => {
   return (
     <UserAccountPersonalInfoPassPopUpMainHeader>
