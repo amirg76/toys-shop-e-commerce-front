@@ -1,0 +1,105 @@
+export const ageListItems = [
+  {
+    id: 1,
+    text: "0-24 Months",
+    filterMin: 0,
+    filterMax: 2,
+    title: "AGE",
+    active: false,
+  },
+  {
+    id: 2,
+    text: "2 Years",
+    filterMin: 2,
+    filterMax: 2,
+    title: "AGE",
+    active: false,
+  },
+  {
+    id: 3,
+    text: "3-4 Years",
+    filterMin: 3,
+    filterMax: 4,
+    title: "AGE",
+    active: false,
+  },
+  {
+    id: 4,
+    text: "5-7 Years",
+    filterMin: 5,
+    filterMax: 7,
+    title: "AGE",
+    active: false,
+  },
+  {
+    id: 5,
+    text: "8-10 Years",
+    filterMin: 8,
+    filterMax: 10,
+    title: "AGE",
+    active: false,
+  },
+  {
+    id: 6,
+    text: "10+ Years",
+    filterMin: 10,
+    filterMax: 9999,
+    title: "AGE",
+    active: false,
+  },
+];
+
+export const priceListItems = [
+  {
+    id: 1,
+    text: "$0-$15",
+    filterMin: 0,
+    filterMax: 15,
+    title: "PRICE",
+    active: false,
+  },
+  {
+    id: 2,
+    text: "$15-$25",
+    filterMin: 15,
+    filterMax: 25,
+    title: "PRICE",
+    active: false,
+  },
+  {
+    id: 3,
+    text: "$25-$50",
+    filterMin: 25,
+    filterMax: 50,
+    title: "PRICE",
+    active: false,
+  },
+  {
+    id: 4,
+    text: "$50-$100",
+    filterMin: 50,
+    filterMax: 100,
+    title: "PRICE",
+    active: false,
+  },
+  {
+    id: 5,
+    text: "$100-$150",
+    filterMin: 100,
+    filterMax: 150,
+    title: "PRICE",
+    active: false,
+  },
+];
+export const selectItems = [
+  {
+    id: 1,
+    text: "AGE",
+    data: ageListItems,
+  },
+  {
+    id: 2,
+    text: "PRICE",
+    data: priceListItems,
+  },
+];
