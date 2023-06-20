@@ -31,7 +31,7 @@ const Pay = () => {
   }, [stripeToken]);
   return (
     <PayContainer>
-      <StripeCheckout
+      {/* <StripeCheckout
         name="Shop&Fun&Kids"
         image="assets/images/logo.png"
         billingAddress
@@ -42,7 +42,7 @@ const Pay = () => {
         stripeKey={process.env.REACT_APP_STRIPE_PUBLIC_KEY}
       >
         <PayButton>Pay Now</PayButton>
-      </StripeCheckout>
+      </StripeCheckout> */}
     </PayContainer>
   );
 };
