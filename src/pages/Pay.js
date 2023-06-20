@@ -1,4 +1,4 @@
-import StripeCheckout from "react-stripe-checkout";
+// import StripeCheckout from "react-stripe-checkout";
 import Logo from "../components/Logo";
 import { useState, useEffect } from "react";
 import axios from "axios";
