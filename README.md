@@ -1,18 +1,20 @@
-# Bank App With Api
-<img src="client/public/assets/screen-shots/main-header-page.png" width="500">
-<img src="client/public/assets/screen-shots/main-center-page.png" width="500">
-<img src="client/public/assets/screen-shots/user-acoount-page.png" width="500">
-<img src="client/public/assets/screen-shots/admin-users-page.png" width="500">
-<img src="client/public/assets/screen-shots/admin-account-page.png" width="500">
-<img src="client/public/assets/screen-shots/newaccount-dark-page.png" width="500">
+# Shop&Fun&Kids online store
+<img src="client/public/assets/screen-shots/desktop-screenshot.png" width="500">
+<img src="client/public/assets/screen-shots/product-screenshot.png" width="500">
+<img src="client/public/assets/screen-shots/sign-in-screenshot.png" width="500">
+<img src="client/public/assets/screen-shots/filter-screenshot.png" width="500">
+<img src="client/public/assets/screen-shots/cart-screenshot.png" width="500">
+<img src="client/public/assets/screen-shots/personal-area-screenshot.png" width="500">
 
 **Version 1.00**
 
-Code and document for the Bank App With Api.
+Code and document for the Shop Fun Kids online store.
 
-This is project that made in appleSeeds bootCamp.
 
 ### How I Build The Project
+
+#### Desgin
+I use styled-components library for the css design.
 
 #### Client
 I use REACT to build the project on cilent side.
@@ -20,15 +22,13 @@ I use REACT to build the project on cilent side.
 I use ALOTE OF REACT COMPONENTS to handle the data and
 connect and render the data from the componments to the html.
 
-i use USECONTEXT to handle multi page changes behaver.
-
 I use REACT ROUTER to handle page routing
 
 I use MATERIAL-UI to design the ui components.
 
 I use SLICK-CAROUSEL to build carousel of images.
 
-I use RECHARTS library built on React components to build charts of data.
+I use REDUXJS-TOOLKIT library to simplifies managing the state in React applications using REDUX.
 
 #### Server
 
@@ -51,13 +51,14 @@ I use JWT to AUTHENTICATION users and protect routes with TOKENS in LOCAL STORAG
 - REACT MATERIAL-UI
 - REACT ROUTER
 - API METHODS
+- REDUXJS-TOOLKIT
 ---
 #### How To Login
-- admin-- user:admin@admin.com password:password
-- user-- user:mmm@ggg.com password:password
+- admin-- user:admin password:123456
+- user-- user:user1 password:123456
 
 ## App Link
-[Bank App](https://bank-api-front.onrender.com/)
+[Shop&Fun&Kids online store](https://toys-shop-e-commerce-front.onrender.com/)
 ---
 
 ## Contributors
