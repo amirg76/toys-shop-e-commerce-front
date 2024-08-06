@@ -1,10 +1,10 @@
 # Shop&Fun&Kids online store
-<img src="client/public/assets/screen-shots/desktop-screenshot.png" width="500">
-<img src="client/public/assets/screen-shots/product-screenshot.png" width="500">
-<img src="client/public/assets/screen-shots/sign-in-screenshot.png" width="500">
-<img src="client/public/assets/screen-shots/filter-screenshot.png" width="500">
-<img src="client/public/assets/screen-shots/cart-screenshot.png" width="500">
-<img src="client/public/assets/screen-shots/personal-area-screenshot.png" width="500">
+<img src="client/public/assets/screenshots/desktop-screenshot.png" width="500">
+<img src="client/public/assets/screenshots/product-screenshot.png" width="500">
+<img src="client/public/assets/screenshots/sign-in-screenshot.png" width="500">
+<img src="client/public/assets/screenshots/filter-screenshot.png" width="500">
+<img src="client/public/assets/screenshots/cart-screenshot.png" width="500">
+<img src="client/public/assets/screenshots/personal-area-screenshot.png" width="500">
 
 **Version 1.00**
 
