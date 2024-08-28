@@ -19,7 +19,7 @@ const HomeWelcome = () => {
       <HomeWelcomePage>
         <HomeWelcomePageText>
           <HomeWelcomePageTitle>
-            Built to stand the test of tim
+            Built to stand the test of time
           </HomeWelcomePageTitle>
           <HomeWelcomePageDesc>
             Shop SFK latest range of kids bargain toys and play sets. Our latest
